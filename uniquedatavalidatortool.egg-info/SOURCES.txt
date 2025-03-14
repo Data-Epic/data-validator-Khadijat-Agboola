@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+Validator/__init__.py
+Validator/validator.py
+tests/test_validator.py
+uniquedatavalidatortool.egg-info/PKG-INFO
+uniquedatavalidatortool.egg-info/SOURCES.txt
+uniquedatavalidatortool.egg-info/dependency_links.txt
+uniquedatavalidatortool.egg-info/top_level.txt
